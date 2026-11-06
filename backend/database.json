@@ -1,0 +1,1238 @@
+{
+  "users": [
+    {
+      "id": "2f2b5284-cba5-43e3-a6ff-164ad7c411a0",
+      "email": "demo@wealth.io",
+      "password_hash": "$2a$10$BmKg/cMBuZLlwTS1mu4jheuG8NYeFm1bcoRxz4ubZ3qi9xt3a8jVa",
+      "preferred_currency": "USD",
+      "baseline_budget": 6500,
+      "created_at": "2026-08-25T16:31:07.679Z"
+    },
+    {
+      "id": "b8567837-3554-4f26-a1c7-648f2bcf538f",
+      "email": "test_1787675469153@wealth.io",
+      "password_hash": "$2a$10$cqy8hQC435eSe5maKGwW8.iWi1E6GDdOeKkVvGRx2SF/MPewAPUeK",
+      "preferred_currency": "USD",
+      "baseline_budget": 6000,
+      "created_at": "2026-08-25T16:31:09.223Z"
+    },
+    {
+      "id": "1d370246-b1a4-4c9e-9d83-d68e893b4077",
+      "email": "test_1787675603943@wealth.io",
+      "password_hash": "$2a$10$FpMM84i5.QjCA1EFt7wKN.r5/UI7ETTSuillF3SAye2/JJ.nEvJjC",
+      "preferred_currency": "USD",
+      "baseline_budget": 6000,
+      "created_at": "2026-08-25T16:33:23.999Z"
+    },
+    {
+      "id": "52f35aee-98f2-46ea-bd67-d062208c1de3",
+      "email": "test_1787675634561@wealth.io",
+      "password_hash": "$2a$10$L/ARzhN1eY/NA8N8KeOfhOmMyOcMqLdpxhyQ4H3WFrpy.5VbCMrZm",
+      "preferred_currency": "USD",
+      "baseline_budget": 6000,
+      "created_at": "2026-08-25T16:33:54.618Z"
+    },
+    {
+      "id": "80ddd652-241e-4615-9ef0-58909ea40cae",
+      "email": "test_1787675693011@wealth.io",
+      "password_hash": "$2a$10$Sx7voUrnb0ZMIT.lTDtjyeM7NhYiyyfAIKdL4fYr.gEdVIrh.zoBq",
+      "preferred_currency": "USD",
+      "baseline_budget": 6000,
+      "created_at": "2026-08-25T16:34:53.075Z"
+    },
+    {
+      "id": "2db3f5c5-70d0-4b71-bc54-898ffa20b410",
+      "email": "test_1787675871700@wealth.io",
+      "password_hash": "$2a$10$ZT6fIKhIMEqtahjoA1Oc5eGfoYzbPZVERcUHMK8UNvE/cQssJ.WES",
+      "preferred_currency": "USD",
+      "baseline_budget": 6000,
+      "created_at": "2026-08-25T16:37:51.761Z"
+    },
+    {
+      "id": "9b69f1a8-ed8f-4a40-9276-98b72b7c328b",
+      "email": "test_1787676395304@wealth.io",
+      "password_hash": "$2a$10$qE./3kOPdky0Nbo17Ey5du2DEennMs1u0nn4RvEqcfup/QnLsA142",
+      "preferred_currency": "USD",
+      "baseline_budget": 6000,
+      "created_at": "2026-08-25T16:46:35.364Z"
+    },
+    {
+      "id": "b654a559-3bd4-4215-a606-8c3886babd1e",
+      "email": "test_1787676901368@wealth.io",
+      "password_hash": "$2a$10$rfAC/pufJ2M.xSC5SSdWeu8ekh//S4cnMXXQnlN01HPmcjTXmQwYS",
+      "preferred_currency": "BDT",
+      "baseline_budget": 45000,
+      "created_at": "2026-08-25T16:55:01.430Z"
+    },
+    {
+      "id": "2ddcf02b-a461-4870-82aa-1736b3c18d35",
+      "email": "test_1787676962717@wealth.io",
+      "password_hash": "$2a$10$v4W/og8tVy3Cj5o7f9y3ReQ.TikHFvQUTmuiY5bULzTbtN9UtJQQS",
+      "preferred_currency": "BDT",
+      "baseline_budget": 45000,
+      "created_at": "2026-08-25T16:56:02.783Z"
+    },
+    {
+      "id": "bf0ac9d1-47bb-4660-ad23-0970d5a46179",
+      "email": "test_1787676970829@wealth.io",
+      "password_hash": "$2a$10$lRmq/fZR.hZhodouF8E4Q.Rr30fB8BMzy3CoNxCmV9OjCHXEgpyyq",
+      "preferred_currency": "BDT",
+      "baseline_budget": 45000,
+      "created_at": "2026-08-25T16:56:10.888Z"
+    },
+    {
+      "id": "549fbb49-18fc-4ba6-b5af-ad2e4167b4ca",
+      "email": "test_1787677937169@wealth.io",
+      "password_hash": "$2a$10$dFzhd67AJuGmfNfhFnVYPuzW.ta8IhXGOaN.BtvXjzfkHQhVO3RfG",
+      "preferred_currency": "BDT",
+      "baseline_budget": 45000,
+      "created_at": "2026-08-25T17:12:17.233Z"
+    },
+    {
+      "id": "002929bc-4d29-44c5-b47d-e5cf8ce038be",
+      "email": "test_1787678201908@wealth.io",
+      "password_hash": "$2a$10$iOEdqOktv1yu0Efz5ltzne82tuzFBMe938vmtu0D7PiAvVbhprbYe",
+      "preferred_currency": "BDT",
+      "baseline_budget": 45000,
+      "created_at": "2026-08-25T17:16:41.961Z"
+    },
+    {
+      "id": "7d6eea26-06e4-4d80-b03b-fb4e55083bce",
+      "email": "test_1787678526817@wealth.io",
+      "password_hash": "$2a$10$WcuNSlPnWfHySfTGKvcoOeioHkdpHt6yo37HWfcXemEnr5ayfhI9.",
+      "preferred_currency": "BDT",
+      "baseline_budget": 45000,
+      "created_at": "2026-08-25T17:22:06.907Z"
+    },
+    {
+      "id": "747cd87d-54c9-4606-8db0-ea33e59dfa00",
+      "email": "test_1787679243993@wealth.io",
+      "password_hash": "$2a$10$Ri0WdyEjwJJUOMDfORS1wufz0LE3/M/JdprWjDxljO3FQOla.Vys6",
+      "preferred_currency": "BDT",
+      "baseline_budget": 45000,
+      "created_at": "2026-08-25T17:34:04.055Z"
+    }
+  ],
+  "categories": [
+    {
+      "id": "3bc224ba-1703-4c54-b2e1-92630f874525",
+      "user_id": "2f2b5284-cba5-43e3-a6ff-164ad7c411a0",
+      "name": "Salary",
+      "type": "INCOME",
+      "budget_limit": 0,
+      "icon": "briefcase",
+      "color": "#10b981"
+    },
+    {
+      "id": "f7701100-00f0-45eb-bcf3-4cb9e531a204",
+      "user_id": "2f2b5284-cba5-43e3-a6ff-164ad7c411a0",
+      "name": "Freelance & Investments",
+      "type": "INCOME",
+      "budget_limit": 0,
+      "icon": "trending-up",
+      "color": "#06b6d4"
+    },
+    {
+      "id": "63885d09-36aa-4e54-820c-aa27e503c75f",
+      "user_id": "2f2b5284-cba5-43e3-a6ff-164ad7c411a0",
+      "name": "Rent & Housing",
+      "type": "EXPENSE",
+      "budget_limit": 2000,
+      "icon": "home",
+      "color": "#f59e0b"
+    },
+    {
+      "id": "5d055625-e0ec-4cba-8875-caac2fd20196",
+      "user_id": "2f2b5284-cba5-43e3-a6ff-164ad7c411a0",
+      "name": "Groceries & Dining",
+      "type": "EXPENSE",
+      "budget_limit": 800,
+      "icon": "shopping-cart",
+      "color": "#ec4899"
+    },
+    {
+      "id": "f6212956-d971-4919-a83c-614635e54cd1",
+      "user_id": "2f2b5284-cba5-43e3-a6ff-164ad7c411a0",
+      "name": "Utilities & Internet",
+      "type": "EXPENSE",
+      "budget_limit": 350,
+      "icon": "zap",
+      "color": "#8b5cf6"
+    },
+    {
+      "id": "4643a585-e4ce-480e-92a5-f8b95d92ad34",
+      "user_id": "2f2b5284-cba5-43e3-a6ff-164ad7c411a0",
+      "name": "Entertainment & Leisure",
+      "type": "EXPENSE",
+      "budget_limit": 400,
+      "icon": "film",
+      "color": "#ef4444"
+    },
+    {
+      "id": "bf0f7b6d-17d1-4a7a-be71-ab49a4383a51",
+      "user_id": "2f2b5284-cba5-43e3-a6ff-164ad7c411a0",
+      "name": "Health & Fitness",
+      "type": "EXPENSE",
+      "budget_limit": 300,
+      "icon": "heart",
+      "color": "#14b8a6"
+    },
+    {
+      "id": "73c9477c-74f6-418a-a235-d3e3638188e7",
+      "user_id": "2f2b5284-cba5-43e3-a6ff-164ad7c411a0",
+      "name": "Transportation",
+      "type": "EXPENSE",
+      "budget_limit": 300,
+      "icon": "car",
+      "color": "#6366f1"
+    },
+    {
+      "id": "9eaa0b5a-bc92-4379-8385-7db08dfe97c9",
+      "user_id": "b8567837-3554-4f26-a1c7-648f2bcf538f",
+      "name": "Salary",
+      "type": "INCOME",
+      "budget_limit": 0,
+      "icon": "briefcase",
+      "color": "#10b981"
+    },
+    {
+      "id": "e9b1307a-711d-43d2-8707-db9ad9ec759d",
+      "user_id": "b8567837-3554-4f26-a1c7-648f2bcf538f",
+      "name": "Freelance & Side Income",
+      "type": "INCOME",
+      "budget_limit": 0,
+      "icon": "trending-up",
+      "color": "#06b6d4"
+    },
+    {
+      "id": "2db7c07d-8d57-42f0-9722-2cbfe7da39af",
+      "user_id": "b8567837-3554-4f26-a1c7-648f2bcf538f",
+      "name": "Housing & Rent",
+      "type": "EXPENSE",
+      "budget_limit": 1500,
+      "icon": "home",
+      "color": "#f59e0b"
+    },
+    {
+      "id": "b97ccd22-cd94-4fdf-a8ea-6e14046300d7",
+      "user_id": "b8567837-3554-4f26-a1c7-648f2bcf538f",
+      "name": "Groceries & Food",
+      "type": "EXPENSE",
+      "budget_limit": 600,
+      "icon": "shopping-cart",
+      "color": "#ec4899"
+    },
+    {
+      "id": "6e30b925-49e1-4b8c-9758-81d5904017ac",
+      "user_id": "b8567837-3554-4f26-a1c7-648f2bcf538f",
+      "name": "Utilities",
+      "type": "EXPENSE",
+      "budget_limit": 250,
+      "icon": "zap",
+      "color": "#8b5cf6"
+    },
+    {
+      "id": "93a34420-1173-46f4-bdd1-c5baec16f602",
+      "user_id": "b8567837-3554-4f26-a1c7-648f2bcf538f",
+      "name": "Entertainment",
+      "type": "EXPENSE",
+      "budget_limit": 300,
+      "icon": "film",
+      "color": "#ef4444"
+    },
+    {
+      "id": "b1e5359c-0c1a-463f-9f85-752c6c6b1cb6",
+      "user_id": "b8567837-3554-4f26-a1c7-648f2bcf538f",
+      "name": "Transportation",
+      "type": "EXPENSE",
+      "budget_limit": 250,
+      "icon": "car",
+      "color": "#6366f1"
+    },
+    {
+      "id": "1fc06d16-877d-40ff-ab47-c7fbdea06da7",
+      "user_id": "b8567837-3554-4f26-a1c7-648f2bcf538f",
+      "name": "Gym & Subscriptions",
+      "type": "EXPENSE",
+      "budget_limit": 150,
+      "icon": "tag",
+      "color": "#3b82f6"
+    },
+    {
+      "id": "2bb5b61e-20b6-4acd-9d2f-0fad73fe9582",
+      "user_id": "1d370246-b1a4-4c9e-9d83-d68e893b4077",
+      "name": "Salary",
+      "type": "INCOME",
+      "budget_limit": 0,
+      "icon": "briefcase",
+      "color": "#10b981"
+    },
+    {
+      "id": "1dfc0373-3a71-4400-9d0b-306f33a51304",
+      "user_id": "1d370246-b1a4-4c9e-9d83-d68e893b4077",
+      "name": "Freelance & Side Income",
+      "type": "INCOME",
+      "budget_limit": 0,
+      "icon": "trending-up",
+      "color": "#06b6d4"
+    },
+    {
+      "id": "35fbd04e-e9db-4df5-859c-9de0e907b141",
+      "user_id": "1d370246-b1a4-4c9e-9d83-d68e893b4077",
+      "name": "Housing & Rent",
+      "type": "EXPENSE",
+      "budget_limit": 1500,
+      "icon": "home",
+      "color": "#f59e0b"
+    },
+    {
+      "id": "96552994-a9e8-43ba-8604-c60d104c3d35",
+      "user_id": "1d370246-b1a4-4c9e-9d83-d68e893b4077",
+      "name": "Groceries & Food",
+      "type": "EXPENSE",
+      "budget_limit": 600,
+      "icon": "shopping-cart",
+      "color": "#ec4899"
+    },
+    {
+      "id": "34d0c7bd-98ff-4daa-8034-60c61859ea6c",
+      "user_id": "1d370246-b1a4-4c9e-9d83-d68e893b4077",
+      "name": "Utilities",
+      "type": "EXPENSE",
+      "budget_limit": 250,
+      "icon": "zap",
+      "color": "#8b5cf6"
+    },
+    {
+      "id": "c6877701-e121-4463-8c80-349aca5334d5",
+      "user_id": "1d370246-b1a4-4c9e-9d83-d68e893b4077",
+      "name": "Entertainment",
+      "type": "EXPENSE",
+      "budget_limit": 300,
+      "icon": "film",
+      "color": "#ef4444"
+    },
+    {
+      "id": "632f741c-8df4-40bb-8c57-342ceb019f72",
+      "user_id": "1d370246-b1a4-4c9e-9d83-d68e893b4077",
+      "name": "Transportation",
+      "type": "EXPENSE",
+      "budget_limit": 250,
+      "icon": "car",
+      "color": "#6366f1"
+    },
+    {
+      "id": "9ce08869-678f-42f2-bf1e-b1f014d2aa53",
+      "user_id": "1d370246-b1a4-4c9e-9d83-d68e893b4077",
+      "name": "Gym & Subscriptions",
+      "type": "EXPENSE",
+      "budget_limit": 150,
+      "icon": "tag",
+      "color": "#3b82f6"
+    },
+    {
+      "id": "e53fef6d-8379-458f-8afa-f6dd402f65be",
+      "user_id": "52f35aee-98f2-46ea-bd67-d062208c1de3",
+      "name": "Salary",
+      "type": "INCOME",
+      "budget_limit": 0,
+      "icon": "briefcase",
+      "color": "#10b981"
+    },
+    {
+      "id": "ee2aab3f-d1df-42b1-b043-f215bb687341",
+      "user_id": "52f35aee-98f2-46ea-bd67-d062208c1de3",
+      "name": "Freelance & Side Income",
+      "type": "INCOME",
+      "budget_limit": 0,
+      "icon": "trending-up",
+      "color": "#06b6d4"
+    },
+    {
+      "id": "e437bb09-5b8b-4109-915c-b2daa4743cd8",
+      "user_id": "52f35aee-98f2-46ea-bd67-d062208c1de3",
+      "name": "Housing & Rent",
+      "type": "EXPENSE",
+      "budget_limit": 1500,
+      "icon": "home",
+      "color": "#f59e0b"
+    },
+    {
+      "id": "ba940f8f-6377-4596-93f5-47d81eb2ca33",
+      "user_id": "52f35aee-98f2-46ea-bd67-d062208c1de3",
+      "name": "Groceries & Food",
+      "type": "EXPENSE",
+      "budget_limit": 600,
+      "icon": "shopping-cart",
+      "color": "#ec4899"
+    },
+    {
+      "id": "e8d4b07f-5e84-44c0-8920-bcc9300a8ad6",
+      "user_id": "52f35aee-98f2-46ea-bd67-d062208c1de3",
+      "name": "Utilities",
+      "type": "EXPENSE",
+      "budget_limit": 250,
+      "icon": "zap",
+      "color": "#8b5cf6"
+    },
+    {
+      "id": "ab23bbaf-3c1c-4e5c-94c0-ecb3dc3d2250",
+      "user_id": "52f35aee-98f2-46ea-bd67-d062208c1de3",
+      "name": "Entertainment",
+      "type": "EXPENSE",
+      "budget_limit": 300,
+      "icon": "film",
+      "color": "#ef4444"
+    },
+    {
+      "id": "6252694e-13f4-458d-943a-fdc2d7517cf9",
+      "user_id": "52f35aee-98f2-46ea-bd67-d062208c1de3",
+      "name": "Transportation",
+      "type": "EXPENSE",
+      "budget_limit": 250,
+      "icon": "car",
+      "color": "#6366f1"
+    },
+    {
+      "id": "b19f7061-ba17-434c-9067-f1f9018370c6",
+      "user_id": "52f35aee-98f2-46ea-bd67-d062208c1de3",
+      "name": "Gym & Subscriptions",
+      "type": "EXPENSE",
+      "budget_limit": 150,
+      "icon": "tag",
+      "color": "#3b82f6"
+    },
+    {
+      "id": "4a607228-bbc2-4b63-bbdb-a1bfbcda9c53",
+      "user_id": "80ddd652-241e-4615-9ef0-58909ea40cae",
+      "name": "Salary",
+      "type": "INCOME",
+      "budget_limit": 0,
+      "icon": "briefcase",
+      "color": "#10b981"
+    },
+    {
+      "id": "a840a898-1b8e-4a04-a017-b28d4a4d23e6",
+      "user_id": "80ddd652-241e-4615-9ef0-58909ea40cae",
+      "name": "Freelance & Side Income",
+      "type": "INCOME",
+      "budget_limit": 0,
+      "icon": "trending-up",
+      "color": "#06b6d4"
+    },
+    {
+      "id": "26629312-627d-4366-97f0-eb64609dbde2",
+      "user_id": "80ddd652-241e-4615-9ef0-58909ea40cae",
+      "name": "Housing & Rent",
+      "type": "EXPENSE",
+      "budget_limit": 1500,
+      "icon": "home",
+      "color": "#f59e0b"
+    },
+    {
+      "id": "9cf79691-ee66-4aa7-85a2-0732a5d4b25f",
+      "user_id": "80ddd652-241e-4615-9ef0-58909ea40cae",
+      "name": "Groceries & Food",
+      "type": "EXPENSE",
+      "budget_limit": 600,
+      "icon": "shopping-cart",
+      "color": "#ec4899"
+    },
+    {
+      "id": "898b5f87-a506-4c40-ad68-2b8e3a2e83ed",
+      "user_id": "80ddd652-241e-4615-9ef0-58909ea40cae",
+      "name": "Utilities",
+      "type": "EXPENSE",
+      "budget_limit": 250,
+      "icon": "zap",
+      "color": "#8b5cf6"
+    },
+    {
+      "id": "2913cb1e-8330-4dee-b802-8204b96eed15",
+      "user_id": "80ddd652-241e-4615-9ef0-58909ea40cae",
+      "name": "Entertainment",
+      "type": "EXPENSE",
+      "budget_limit": 300,
+      "icon": "film",
+      "color": "#ef4444"
+    },
+    {
+      "id": "258f6ba6-89f4-4324-a1f0-946f42edae64",
+      "user_id": "80ddd652-241e-4615-9ef0-58909ea40cae",
+      "name": "Transportation",
+      "type": "EXPENSE",
+      "budget_limit": 250,
+      "icon": "car",
+      "color": "#6366f1"
+    },
+    {
+      "id": "9d63f27b-7ead-437b-b3bb-d5e46cf29f5c",
+      "user_id": "80ddd652-241e-4615-9ef0-58909ea40cae",
+      "name": "Gym & Subscriptions",
+      "type": "EXPENSE",
+      "budget_limit": 150,
+      "icon": "tag",
+      "color": "#3b82f6"
+    },
+    {
+      "id": "a2962b4c-2f91-4059-86f6-d7047dfa6a44",
+      "user_id": "2db3f5c5-70d0-4b71-bc54-898ffa20b410",
+      "name": "Salary",
+      "type": "INCOME",
+      "budget_limit": 0,
+      "icon": "briefcase",
+      "color": "#10b981"
+    },
+    {
+      "id": "20b78c82-445b-4e6f-b150-a152868d4a53",
+      "user_id": "2db3f5c5-70d0-4b71-bc54-898ffa20b410",
+      "name": "Freelance & Side Income",
+      "type": "INCOME",
+      "budget_limit": 0,
+      "icon": "trending-up",
+      "color": "#06b6d4"
+    },
+    {
+      "id": "8bf1b325-bc6a-47c0-b88e-61844cf60b27",
+      "user_id": "2db3f5c5-70d0-4b71-bc54-898ffa20b410",
+      "name": "Housing & Rent",
+      "type": "EXPENSE",
+      "budget_limit": 1500,
+      "icon": "home",
+      "color": "#f59e0b"
+    },
+    {
+      "id": "314ecc5f-563a-48c4-be2f-f88942b4f474",
+      "user_id": "2db3f5c5-70d0-4b71-bc54-898ffa20b410",
+      "name": "Groceries & Food",
+      "type": "EXPENSE",
+      "budget_limit": 600,
+      "icon": "shopping-cart",
+      "color": "#ec4899"
+    },
+    {
+      "id": "909565ae-64f3-4a87-a906-f67c47c97bb4",
+      "user_id": "2db3f5c5-70d0-4b71-bc54-898ffa20b410",
+      "name": "Utilities",
+      "type": "EXPENSE",
+      "budget_limit": 250,
+      "icon": "zap",
+      "color": "#8b5cf6"
+    },
+    {
+      "id": "a36ce0e8-60f4-458b-80b3-a8710b0f8433",
+      "user_id": "2db3f5c5-70d0-4b71-bc54-898ffa20b410",
+      "name": "Entertainment",
+      "type": "EXPENSE",
+      "budget_limit": 300,
+      "icon": "film",
+      "color": "#ef4444"
+    },
+    {
+      "id": "3d1f305d-9657-4fac-a4d7-a779e6a1f839",
+      "user_id": "2db3f5c5-70d0-4b71-bc54-898ffa20b410",
+      "name": "Transportation",
+      "type": "EXPENSE",
+      "budget_limit": 250,
+      "icon": "car",
+      "color": "#6366f1"
+    },
+    {
+      "id": "60063d86-8cd3-4bfd-bf1f-82537490b74b",
+      "user_id": "2db3f5c5-70d0-4b71-bc54-898ffa20b410",
+      "name": "Gym & Subscriptions",
+      "type": "EXPENSE",
+      "budget_limit": 150,
+      "icon": "tag",
+      "color": "#3b82f6"
+    },
+    {
+      "id": "0a224c44-f0b2-4483-980d-e2affc1e9920",
+      "user_id": "9b69f1a8-ed8f-4a40-9276-98b72b7c328b",
+      "name": "Salary",
+      "type": "INCOME",
+      "budget_limit": 0,
+      "icon": "briefcase",
+      "color": "#10b981"
+    },
+    {
+      "id": "070d439b-9607-4773-a99d-1c9771fa71d6",
+      "user_id": "9b69f1a8-ed8f-4a40-9276-98b72b7c328b",
+      "name": "Freelance & Side Income",
+      "type": "INCOME",
+      "budget_limit": 0,
+      "icon": "trending-up",
+      "color": "#06b6d4"
+    },
+    {
+      "id": "638d2832-14c8-4bef-8aa6-242167b0f7c9",
+      "user_id": "9b69f1a8-ed8f-4a40-9276-98b72b7c328b",
+      "name": "Housing & Rent",
+      "type": "EXPENSE",
+      "budget_limit": 1500,
+      "icon": "home",
+      "color": "#f59e0b"
+    },
+    {
+      "id": "e9829c67-ce3d-413b-bccf-f5dc2ca5c6eb",
+      "user_id": "9b69f1a8-ed8f-4a40-9276-98b72b7c328b",
+      "name": "Groceries & Food",
+      "type": "EXPENSE",
+      "budget_limit": 600,
+      "icon": "shopping-cart",
+      "color": "#ec4899"
+    },
+    {
+      "id": "84dc7367-2293-46f2-a2df-7d32e7e00dfb",
+      "user_id": "9b69f1a8-ed8f-4a40-9276-98b72b7c328b",
+      "name": "Utilities",
+      "type": "EXPENSE",
+      "budget_limit": 250,
+      "icon": "zap",
+      "color": "#8b5cf6"
+    },
+    {
+      "id": "3ca6f7b6-a767-4fee-bd9c-89e3b1a703d4",
+      "user_id": "9b69f1a8-ed8f-4a40-9276-98b72b7c328b",
+      "name": "Entertainment",
+      "type": "EXPENSE",
+      "budget_limit": 300,
+      "icon": "film",
+      "color": "#ef4444"
+    },
+    {
+      "id": "b30d44df-227a-40a1-92f1-ddb5bbfc1a3c",
+      "user_id": "9b69f1a8-ed8f-4a40-9276-98b72b7c328b",
+      "name": "Transportation",
+      "type": "EXPENSE",
+      "budget_limit": 250,
+      "icon": "car",
+      "color": "#6366f1"
+    },
+    {
+      "id": "cc74d72c-02d3-479d-9ed8-a8a32837709e",
+      "user_id": "9b69f1a8-ed8f-4a40-9276-98b72b7c328b",
+      "name": "Gym & Subscriptions",
+      "type": "EXPENSE",
+      "budget_limit": 150,
+      "icon": "tag",
+      "color": "#3b82f6"
+    },
+    {
+      "id": "8191004a-d5b1-4172-bd44-f7ac186bb6d7",
+      "user_id": "b654a559-3bd4-4215-a606-8c3886babd1e",
+      "name": "Salary",
+      "type": "INCOME",
+      "budget_limit": 0,
+      "icon": "briefcase",
+      "color": "#10b981"
+    },
+    {
+      "id": "319aacd7-7847-41c0-b42f-1d87b5797cb1",
+      "user_id": "b654a559-3bd4-4215-a606-8c3886babd1e",
+      "name": "Freelance & Side Income",
+      "type": "INCOME",
+      "budget_limit": 0,
+      "icon": "trending-up",
+      "color": "#06b6d4"
+    },
+    {
+      "id": "4706997c-71ba-4e86-837b-70bee4fcf12e",
+      "user_id": "b654a559-3bd4-4215-a606-8c3886babd1e",
+      "name": "Housing & Rent",
+      "type": "EXPENSE",
+      "budget_limit": 1500,
+      "icon": "home",
+      "color": "#f59e0b"
+    },
+    {
+      "id": "8d2bf210-6768-4595-b2fb-fa27b86dc5a4",
+      "user_id": "b654a559-3bd4-4215-a606-8c3886babd1e",
+      "name": "Groceries & Food",
+      "type": "EXPENSE",
+      "budget_limit": 600,
+      "icon": "shopping-cart",
+      "color": "#ec4899"
+    },
+    {
+      "id": "d991de13-4ced-4ab8-9f94-2236bb93312e",
+      "user_id": "b654a559-3bd4-4215-a606-8c3886babd1e",
+      "name": "Utilities",
+      "type": "EXPENSE",
+      "budget_limit": 250,
+      "icon": "zap",
+      "color": "#8b5cf6"
+    },
+    {
+      "id": "6c1309a0-3e08-4511-b6d7-8ee81a08c69b",
+      "user_id": "b654a559-3bd4-4215-a606-8c3886babd1e",
+      "name": "Entertainment",
+      "type": "EXPENSE",
+      "budget_limit": 300,
+      "icon": "film",
+      "color": "#ef4444"
+    },
+    {
+      "id": "8e108505-fb1b-40fe-abcb-fe24f52f577f",
+      "user_id": "b654a559-3bd4-4215-a606-8c3886babd1e",
+      "name": "Transportation",
+      "type": "EXPENSE",
+      "budget_limit": 250,
+      "icon": "car",
+      "color": "#6366f1"
+    },
+    {
+      "id": "99ab6ad0-d034-4587-8fe7-911332bbdb81",
+      "user_id": "2ddcf02b-a461-4870-82aa-1736b3c18d35",
+      "name": "Salary",
+      "type": "INCOME",
+      "budget_limit": 0,
+      "icon": "briefcase",
+      "color": "#10b981"
+    },
+    {
+      "id": "8237e6d4-79b5-4360-b1e8-8c8d59ab8ac7",
+      "user_id": "2ddcf02b-a461-4870-82aa-1736b3c18d35",
+      "name": "Freelance & Side Income",
+      "type": "INCOME",
+      "budget_limit": 0,
+      "icon": "trending-up",
+      "color": "#06b6d4"
+    },
+    {
+      "id": "cee7212c-90d1-4f5d-a304-0e0ac54a4067",
+      "user_id": "2ddcf02b-a461-4870-82aa-1736b3c18d35",
+      "name": "Housing & Rent",
+      "type": "EXPENSE",
+      "budget_limit": 1500,
+      "icon": "home",
+      "color": "#f59e0b"
+    },
+    {
+      "id": "322ef9e0-8b19-494e-bfb7-bb7d633ab7e4",
+      "user_id": "2ddcf02b-a461-4870-82aa-1736b3c18d35",
+      "name": "Groceries & Food",
+      "type": "EXPENSE",
+      "budget_limit": 600,
+      "icon": "shopping-cart",
+      "color": "#ec4899"
+    },
+    {
+      "id": "43219563-d43c-4a06-b704-60edc63768ef",
+      "user_id": "2ddcf02b-a461-4870-82aa-1736b3c18d35",
+      "name": "Utilities",
+      "type": "EXPENSE",
+      "budget_limit": 250,
+      "icon": "zap",
+      "color": "#8b5cf6"
+    },
+    {
+      "id": "0dd667c4-b12f-466d-a10d-4fb29ea5d966",
+      "user_id": "2ddcf02b-a461-4870-82aa-1736b3c18d35",
+      "name": "Entertainment",
+      "type": "EXPENSE",
+      "budget_limit": 300,
+      "icon": "film",
+      "color": "#ef4444"
+    },
+    {
+      "id": "0573efd9-b7bc-462e-9d3f-d3a0bf80038d",
+      "user_id": "2ddcf02b-a461-4870-82aa-1736b3c18d35",
+      "name": "Transportation",
+      "type": "EXPENSE",
+      "budget_limit": 250,
+      "icon": "car",
+      "color": "#6366f1"
+    },
+    {
+      "id": "9d41a0a6-0684-405e-8336-43a7514f7bdf",
+      "user_id": "bf0ac9d1-47bb-4660-ad23-0970d5a46179",
+      "name": "Salary",
+      "type": "INCOME",
+      "budget_limit": 0,
+      "icon": "briefcase",
+      "color": "#10b981"
+    },
+    {
+      "id": "f677c718-74a3-4860-9c60-21552b74d386",
+      "user_id": "bf0ac9d1-47bb-4660-ad23-0970d5a46179",
+      "name": "Freelance & Business",
+      "type": "INCOME",
+      "budget_limit": 0,
+      "icon": "trending-up",
+      "color": "#06b6d4"
+    },
+    {
+      "id": "a6e94868-0c46-4592-9d0a-4bbeef2a0554",
+      "user_id": "bf0ac9d1-47bb-4660-ad23-0970d5a46179",
+      "name": "House Rent & Housing",
+      "type": "EXPENSE",
+      "budget_limit": 15000,
+      "icon": "home",
+      "color": "#f59e0b"
+    },
+    {
+      "id": "f0c01c0d-56fd-4070-a7e0-7d4efafe3fe8",
+      "user_id": "bf0ac9d1-47bb-4660-ad23-0970d5a46179",
+      "name": "Groceries & Food",
+      "type": "EXPENSE",
+      "budget_limit": 8000,
+      "icon": "shopping-cart",
+      "color": "#ec4899"
+    },
+    {
+      "id": "12be1342-2216-4bb3-849d-b31925ad8fe8",
+      "user_id": "bf0ac9d1-47bb-4660-ad23-0970d5a46179",
+      "name": "Utilities & Bills",
+      "type": "EXPENSE",
+      "budget_limit": 4000,
+      "icon": "zap",
+      "color": "#8b5cf6"
+    },
+    {
+      "id": "637d0381-ed99-409e-afa9-bcdf5310b063",
+      "user_id": "bf0ac9d1-47bb-4660-ad23-0970d5a46179",
+      "name": "Transport & Outing",
+      "type": "EXPENSE",
+      "budget_limit": 5000,
+      "icon": "car",
+      "color": "#ef4444"
+    },
+    {
+      "id": "33ad9600-9393-4ad1-a6f9-5148556b0799",
+      "user_id": "002929bc-4d29-44c5-b47d-e5cf8ce038be",
+      "name": "Salary Income",
+      "type": "INCOME",
+      "budget_limit": 0,
+      "icon": "tag",
+      "color": "#3b82f6"
+    },
+    {
+      "id": "b7d50a6d-b31c-44bd-9aa4-e4fbe1fcaf68",
+      "user_id": "002929bc-4d29-44c5-b47d-e5cf8ce038be",
+      "name": "Groceries",
+      "type": "EXPENSE",
+      "budget_limit": 8000,
+      "icon": "tag",
+      "color": "#3b82f6"
+    },
+    {
+      "id": "46ce83b7-4d87-4e4c-aa7c-2b43e2503b32",
+      "user_id": "7d6eea26-06e4-4d80-b03b-fb4e55083bce",
+      "name": "Salary Income",
+      "type": "INCOME",
+      "budget_limit": 0,
+      "icon": "tag",
+      "color": "#3b82f6"
+    },
+    {
+      "id": "578799d4-31b1-4701-92fc-e8b959e32b27",
+      "user_id": "7d6eea26-06e4-4d80-b03b-fb4e55083bce",
+      "name": "Groceries",
+      "type": "EXPENSE",
+      "budget_limit": 8000,
+      "icon": "tag",
+      "color": "#3b82f6"
+    },
+    {
+      "id": "3a0c821c-2d81-4b0d-befe-c2317b1de76a",
+      "user_id": "747cd87d-54c9-4606-8db0-ea33e59dfa00",
+      "name": "Salary Income",
+      "type": "INCOME",
+      "budget_limit": 0,
+      "icon": "tag",
+      "color": "#3b82f6"
+    },
+    {
+      "id": "8dc914e7-53c5-475f-aeba-e047d6987c3a",
+      "user_id": "747cd87d-54c9-4606-8db0-ea33e59dfa00",
+      "name": "Groceries",
+      "type": "EXPENSE",
+      "budget_limit": 8000,
+      "icon": "tag",
+      "color": "#3b82f6"
+    }
+  ],
+  "transactions": [
+    {
+      "id": "c9c5d054-0d5f-4cae-a021-a7aa6d16c8fa",
+      "user_id": "2f2b5284-cba5-43e3-a6ff-164ad7c411a0",
+      "category_id": "3bc224ba-1703-4c54-b2e1-92630f874525",
+      "amount": 5500,
+      "type": "INCOME",
+      "transaction_date": "2026-08-01",
+      "description": "Monthly Salary Payment",
+      "payment_method": "Transfer",
+      "created_at": "2026-08-25T16:31:07.680Z"
+    },
+    {
+      "id": "66e367fc-972f-41b2-beb0-30a3b3afb745",
+      "user_id": "2f2b5284-cba5-43e3-a6ff-164ad7c411a0",
+      "category_id": "f7701100-00f0-45eb-bcf3-4cb9e531a204",
+      "amount": 1200,
+      "type": "INCOME",
+      "transaction_date": "2026-08-05",
+      "description": "Web Design Project",
+      "payment_method": "Transfer",
+      "created_at": "2026-08-25T16:31:07.680Z"
+    },
+    {
+      "id": "25e1c253-372d-4586-8b1e-cac28e278fbf",
+      "user_id": "2f2b5284-cba5-43e3-a6ff-164ad7c411a0",
+      "category_id": "63885d09-36aa-4e54-820c-aa27e503c75f",
+      "amount": 1850,
+      "type": "EXPENSE",
+      "transaction_date": "2026-08-02",
+      "description": "Apartment Monthly Rent",
+      "payment_method": "Transfer",
+      "created_at": "2026-08-25T16:31:07.680Z"
+    },
+    {
+      "id": "a2689831-1f3e-4b78-8208-fb9218d6db8e",
+      "user_id": "2f2b5284-cba5-43e3-a6ff-164ad7c411a0",
+      "category_id": "5d055625-e0ec-4cba-8875-caac2fd20196",
+      "amount": 680,
+      "type": "EXPENSE",
+      "transaction_date": "2026-08-08",
+      "description": "Weekly WholeFoods & Dinners",
+      "payment_method": "Card",
+      "created_at": "2026-08-25T16:31:07.680Z"
+    },
+    {
+      "id": "2ee3e1c4-22a8-4d29-96ef-98027508ad3d",
+      "user_id": "2f2b5284-cba5-43e3-a6ff-164ad7c411a0",
+      "category_id": "f6212956-d971-4919-a83c-614635e54cd1",
+      "amount": 320,
+      "type": "EXPENSE",
+      "transaction_date": "2026-08-10",
+      "description": "Electricity & Fiber Wifi",
+      "payment_method": "Card",
+      "created_at": "2026-08-25T16:31:07.680Z"
+    },
+    {
+      "id": "df1be543-ce1e-407a-afc1-b4eb1282b88d",
+      "user_id": "2f2b5284-cba5-43e3-a6ff-164ad7c411a0",
+      "category_id": "4643a585-e4ce-480e-92a5-f8b95d92ad34",
+      "amount": 350,
+      "type": "EXPENSE",
+      "transaction_date": "2026-08-14",
+      "description": "Concert Tickets & Streaming",
+      "payment_method": "Card",
+      "created_at": "2026-08-25T16:31:07.680Z"
+    },
+    {
+      "id": "5c93c86d-f890-49a1-820b-7f0ad1edfc1f",
+      "user_id": "2f2b5284-cba5-43e3-a6ff-164ad7c411a0",
+      "category_id": "73c9477c-74f6-418a-a235-d3e3638188e7",
+      "amount": 180,
+      "type": "EXPENSE",
+      "transaction_date": "2026-08-15",
+      "description": "Gasoline & Transit Pass",
+      "payment_method": "Card",
+      "created_at": "2026-08-25T16:31:07.680Z"
+    },
+    {
+      "id": "498314f3-2e19-4066-ae27-76d71483d06b",
+      "user_id": "2f2b5284-cba5-43e3-a6ff-164ad7c411a0",
+      "category_id": "3bc224ba-1703-4c54-b2e1-92630f874525",
+      "amount": 5500,
+      "type": "INCOME",
+      "transaction_date": "2026-07-01",
+      "description": "Monthly Salary Payment",
+      "payment_method": "Transfer",
+      "created_at": "2026-08-25T16:31:07.680Z"
+    },
+    {
+      "id": "784f3da9-5831-4327-ba18-e0184455b729",
+      "user_id": "2f2b5284-cba5-43e3-a6ff-164ad7c411a0",
+      "category_id": "63885d09-36aa-4e54-820c-aa27e503c75f",
+      "amount": 1850,
+      "type": "EXPENSE",
+      "transaction_date": "2026-07-02",
+      "description": "Apartment Monthly Rent",
+      "payment_method": "Transfer",
+      "created_at": "2026-08-25T16:31:07.680Z"
+    },
+    {
+      "id": "c6ca07d2-aa60-47f2-8a93-c5d91a2bbd82",
+      "user_id": "2f2b5284-cba5-43e3-a6ff-164ad7c411a0",
+      "category_id": "5d055625-e0ec-4cba-8875-caac2fd20196",
+      "amount": 720,
+      "type": "EXPENSE",
+      "transaction_date": "2026-07-14",
+      "description": "Groceries & Restaurants",
+      "payment_method": "Card",
+      "created_at": "2026-08-25T16:31:07.680Z"
+    },
+    {
+      "id": "e04895b7-337d-4b97-9582-5d83009c3431",
+      "user_id": "b8567837-3554-4f26-a1c7-648f2bcf538f",
+      "category_id": "e9b1307a-711d-43d2-8707-db9ad9ec759d",
+      "amount": 4500,
+      "type": "INCOME",
+      "transaction_date": "2026-08-01",
+      "description": "Test Monthly Salary",
+      "payment_method": "Transfer",
+      "created_at": "2026-08-25T16:31:09.242Z"
+    },
+    {
+      "id": "a1d9c1bb-da8f-4f1b-9ace-a06b7cc3f882",
+      "user_id": "1d370246-b1a4-4c9e-9d83-d68e893b4077",
+      "category_id": "1dfc0373-3a71-4400-9d0b-306f33a51304",
+      "amount": 4500,
+      "type": "INCOME",
+      "transaction_date": "2026-08-01",
+      "description": "Test Monthly Salary",
+      "payment_method": "Transfer",
+      "created_at": "2026-08-25T16:33:24.018Z"
+    },
+    {
+      "id": "6fea0c0a-2296-4365-aca8-9087494e8253",
+      "user_id": "52f35aee-98f2-46ea-bd67-d062208c1de3",
+      "category_id": "ee2aab3f-d1df-42b1-b043-f215bb687341",
+      "amount": 4500,
+      "type": "INCOME",
+      "transaction_date": "2026-08-01",
+      "description": "Test Monthly Salary",
+      "payment_method": "Transfer",
+      "created_at": "2026-08-25T16:33:54.636Z"
+    },
+    {
+      "id": "91a386ee-d86d-498f-99e3-557dfcaa9ac3",
+      "user_id": "52f35aee-98f2-46ea-bd67-d062208c1de3",
+      "category_id": "ab23bbaf-3c1c-4e5c-94c0-ecb3dc3d2250",
+      "amount": 140,
+      "type": "EXPENSE",
+      "transaction_date": "2026-08-05",
+      "description": "Monthly Utilities",
+      "payment_method": "Card",
+      "created_at": "2026-08-25T16:33:54.640Z"
+    },
+    {
+      "id": "188af301-b89e-4bc2-8656-98f682cb6473",
+      "user_id": "52f35aee-98f2-46ea-bd67-d062208c1de3",
+      "category_id": "e53fef6d-8379-458f-8afa-f6dd402f65be",
+      "amount": 500,
+      "type": "2026-08-25",
+      "transaction_date": "Deposit to Emergency Savings Target",
+      "description": "",
+      "payment_method": "Card",
+      "created_at": "2026-08-25T16:33:54.646Z"
+    },
+    {
+      "id": "81dcc2c2-bebb-4962-91b5-d35522918370",
+      "user_id": "80ddd652-241e-4615-9ef0-58909ea40cae",
+      "category_id": "a840a898-1b8e-4a04-a017-b28d4a4d23e6",
+      "amount": 4500,
+      "type": "INCOME",
+      "transaction_date": "2026-08-01",
+      "description": "Test Monthly Salary",
+      "payment_method": "Transfer",
+      "created_at": "2026-08-25T16:34:53.094Z"
+    },
+    {
+      "id": "9833fc55-d2ce-4da4-b273-25af67202855",
+      "user_id": "80ddd652-241e-4615-9ef0-58909ea40cae",
+      "category_id": "2913cb1e-8330-4dee-b802-8204b96eed15",
+      "amount": 140,
+      "type": "EXPENSE",
+      "transaction_date": "2026-08-05",
+      "description": "Monthly Utilities",
+      "payment_method": "Card",
+      "created_at": "2026-08-25T16:34:53.098Z"
+    },
+    {
+      "id": "f1e188bb-14d6-4985-ad22-2a6f92e352f9",
+      "user_id": "80ddd652-241e-4615-9ef0-58909ea40cae",
+      "category_id": "4a607228-bbc2-4b63-bbdb-a1bfbcda9c53",
+      "amount": 500,
+      "type": "2026-08-25",
+      "transaction_date": "Deposit to Emergency Savings Target",
+      "description": "",
+      "payment_method": "Card",
+      "created_at": "2026-08-25T16:34:53.105Z"
+    },
+    {
+      "id": "4dbf47d9-532f-4957-bcbb-558e1a294601",
+      "user_id": "2db3f5c5-70d0-4b71-bc54-898ffa20b410",
+      "category_id": "20b78c82-445b-4e6f-b150-a152868d4a53",
+      "amount": 4500,
+      "type": "INCOME",
+      "transaction_date": "2026-08-01",
+      "description": "Test Monthly Salary",
+      "payment_method": "Transfer",
+      "created_at": "2026-08-25T16:37:51.782Z"
+    },
+    {
+      "id": "e7fe142a-8bf8-46ee-941f-aa1e2e29e56b",
+      "user_id": "2db3f5c5-70d0-4b71-bc54-898ffa20b410",
+      "category_id": "a36ce0e8-60f4-458b-80b3-a8710b0f8433",
+      "amount": 140,
+      "type": "EXPENSE",
+      "transaction_date": "2026-08-05",
+      "description": "Monthly Utilities",
+      "payment_method": "Card",
+      "created_at": "2026-08-25T16:37:51.786Z"
+    },
+    {
+      "id": "6b5602b0-3aa4-410c-a459-e9832f8f9369",
+      "user_id": "2db3f5c5-70d0-4b71-bc54-898ffa20b410",
+      "category_id": "a2962b4c-2f91-4059-86f6-d7047dfa6a44",
+      "amount": 500,
+      "type": "2026-08-25",
+      "transaction_date": "Deposit to Emergency Savings Target",
+      "description": "",
+      "payment_method": "Card",
+      "created_at": "2026-08-25T16:37:51.792Z"
+    },
+    {
+      "id": "ab03828d-59f1-491c-9e66-9b7beaca1dde",
+      "user_id": "9b69f1a8-ed8f-4a40-9276-98b72b7c328b",
+      "category_id": "070d439b-9607-4773-a99d-1c9771fa71d6",
+      "amount": 4500,
+      "type": "INCOME",
+      "transaction_date": "2026-08-01",
+      "description": "Test Monthly Salary",
+      "payment_method": "Transfer",
+      "created_at": "2026-08-25T16:46:35.372Z"
+    },
+    {
+      "id": "a976b60b-a7f5-4471-861a-6a4fdf8216ea",
+      "user_id": "9b69f1a8-ed8f-4a40-9276-98b72b7c328b",
+      "category_id": "3ca6f7b6-a767-4fee-bd9c-89e3b1a703d4",
+      "amount": 140,
+      "type": "EXPENSE",
+      "transaction_date": "2026-08-05",
+      "description": "Monthly Utilities",
+      "payment_method": "Card",
+      "created_at": "2026-08-25T16:46:35.375Z"
+    },
+    {
+      "id": "4677453e-a20e-4286-8507-b1d79489a51a",
+      "user_id": "9b69f1a8-ed8f-4a40-9276-98b72b7c328b",
+      "category_id": "0a224c44-f0b2-4483-980d-e2affc1e9920",
+      "amount": 500,
+      "type": "2026-08-25",
+      "transaction_date": "Deposit to Emergency Savings Target",
+      "description": "",
+      "payment_method": "Card",
+      "created_at": "2026-08-25T16:46:35.378Z"
+    },
+    {
+      "id": "18887ec9-82a4-4784-aeb6-c107cd06f1ed",
+      "user_id": "b654a559-3bd4-4215-a606-8c3886babd1e",
+      "category_id": "319aacd7-7847-41c0-b42f-1d87b5797cb1",
+      "amount": 50000,
+      "type": "INCOME",
+      "transaction_date": "2026-08-01",
+      "description": "Monthly Salary Credit BDT",
+      "payment_method": "Bank Transfer",
+      "created_at": "2026-08-25T16:55:01.435Z"
+    },
+    {
+      "id": "62d5ee9d-d060-4f95-9a9e-57ec5bb7ffed",
+      "user_id": "b654a559-3bd4-4215-a606-8c3886babd1e",
+      "category_id": "6c1309a0-3e08-4511-b6d7-8ee81a08c69b",
+      "amount": 15000,
+      "type": "EXPENSE",
+      "transaction_date": "2026-08-05",
+      "description": "House Rent BDT",
+      "payment_method": "Cash",
+      "created_at": "2026-08-25T16:55:01.438Z"
+    },
+    {
+      "id": "523c9188-da81-4918-9afc-08106a2fc9f7",
+      "user_id": "2ddcf02b-a461-4870-82aa-1736b3c18d35",
+      "category_id": "8237e6d4-79b5-4360-b1e8-8c8d59ab8ac7",
+      "amount": 50000,
+      "type": "INCOME",
+      "transaction_date": "2026-08-01",
+      "description": "Monthly Salary Credit BDT",
+      "payment_method": "Bank Transfer",
+      "created_at": "2026-08-25T16:56:02.790Z"
+    },
+    {
+      "id": "de4e790a-20b4-4f9d-817c-414bb79702d4",
+      "user_id": "2ddcf02b-a461-4870-82aa-1736b3c18d35",
+      "category_id": "0dd667c4-b12f-466d-a10d-4fb29ea5d966",
+      "amount": 15000,
+      "type": "EXPENSE",
+      "transaction_date": "2026-08-05",
+      "description": "House Rent BDT",
+      "payment_method": "Cash",
+      "created_at": "2026-08-25T16:56:02.796Z"
+    }
+  ],
+  "savings_goals": [
+    {
+      "id": "f23588cd-cb07-4f55-ad20-dc78149fac3c",
+      "user_id": "2f2b5284-cba5-43e3-a6ff-164ad7c411a0",
+      "goal_name": "Emergency Fund",
+      "target_amount": 10000,
+      "current_amount": 6500,
+      "target_date": "2027-06-30",
+      "status": "IN_PROGRESS",
+      "created_at": "2026-08-25T16:31:07.680Z"
+    },
+    {
+      "id": "12d69ea0-03c8-40aa-9cf5-14ac170ccb57",
+      "user_id": "2f2b5284-cba5-43e3-a6ff-164ad7c411a0",
+      "goal_name": "Dream Vacation in Japan",
+      "target_amount": 5000,
+      "current_amount": 2800,
+      "target_date": "2026-12-15",
+      "status": "IN_PROGRESS",
+      "created_at": "2026-08-25T16:31:07.680Z"
+    },
+    {
+      "id": "48d3426e-6c39-4a51-babd-6ee36aaad6f2",
+      "user_id": "2f2b5284-cba5-43e3-a6ff-164ad7c411a0",
+      "goal_name": "New Electric Vehicle",
+      "target_amount": 25000,
+      "current_amount": 8200,
+      "target_date": "2028-09-01",
+      "status": "IN_PROGRESS",
+      "created_at": "2026-08-25T16:31:07.680Z"
+    },
+    {
+      "id": "b0fe10da-9a39-46a5-a2bd-9fa85b6c7fa7",
+      "user_id": "52f35aee-98f2-46ea-bd67-d062208c1de3",
+      "goal_name": "Emergency Savings Target",
+      "target_amount": 5000,
+      "current_amount": 1500,
+      "target_date": "2027-01-01",
+      "status": "IN_PROGRESS",
+      "created_at": "2026-08-25T16:33:54.644Z"
+    },
+    {
+      "id": "fb6cd2f9-9039-4ec7-9656-1b814adf39af",
+      "user_id": "80ddd652-241e-4615-9ef0-58909ea40cae",
+      "goal_name": "Emergency Savings Target",
+      "target_amount": 5000,
+      "current_amount": 1500,
+      "target_date": "2027-01-01",
+      "status": "IN_PROGRESS",
+      "created_at": "2026-08-25T16:34:53.102Z"
+    },
+    {
+      "id": "546e1692-36fb-48a0-88c6-e3a1ee99808b",
+      "user_id": "2db3f5c5-70d0-4b71-bc54-898ffa20b410",
+      "goal_name": "Emergency Savings Target",
+      "target_amount": 5000,
+      "current_amount": 1500,
+      "target_date": "2027-01-01",
+      "status": "IN_PROGRESS",
+      "created_at": "2026-08-25T16:37:51.789Z"
+    },
+    {
+      "id": "148779bb-1cf1-4a3d-bdf9-b23992415286",
+      "user_id": "9b69f1a8-ed8f-4a40-9276-98b72b7c328b",
+      "goal_name": "Emergency Savings Target",
+      "target_amount": 5000,
+      "current_amount": 1500,
+      "target_date": "2027-01-01",
+      "status": "IN_PROGRESS",
+      "created_at": "2026-08-25T16:46:35.377Z"
+    }
+  ]
+}
